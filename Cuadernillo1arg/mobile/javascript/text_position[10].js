@@ -1,0 +1,1 @@
+﻿positionForPages[10]={page:10,positions:[{word:"Aprendo",left:0.430157,top:0.060066,width:0.192574,height:0.064008},{word:"Lexendo",left:0.378904,top:0.054939,width:0.206589,height:0.064285}]};
