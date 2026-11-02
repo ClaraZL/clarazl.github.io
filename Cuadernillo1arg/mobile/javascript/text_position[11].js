@@ -1,1 +1,1 @@
-﻿positionForPages[11]={page:11,positions:[]};
+﻿positionForPages[11]={page:11,positions:[{word:"\u0001\u0001\u0001\u0001\u0001\u0001\u0001",left:0.430157,top:0.060066,width:0.192574,height:0.064008},{word:"\u0001\u0001\u0001\u0001\u0001\u0001\u0001",left:0.378904,top:0.054939,width:0.206589,height:0.064285},{word:"\u0001\u0001\u0001\u0001\u0001\u0001\u0001",left:0.430157,top:0.060066,width:0.192574,height:0.064008},{word:"\u0001\u0001\u0001\u0001\u0001\u0001\u0001",left:0.378904,top:0.054939,width:0.206589,height:0.064285}]};
