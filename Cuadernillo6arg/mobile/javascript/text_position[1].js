@@ -1,1 +1,0 @@
-﻿positionForPages[1]={page:1,positions:[{word:"nombre",left:0.707532,top:0.060342,width:0.065334,height:0.018416},{word:"Al",left:0.775705,top:0.824472,width:0.038680,height:0.038366},{word:"m\u00E1s",left:0.822784,top:0.824472,width:0.072907,height:0.038366},{word:"all\u00E1",left:0.904091,top:0.824472,width:0.061064,height:0.038366}]};

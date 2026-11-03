@@ -1,1 +1,0 @@
-﻿positionForPages[14]={page:14,positions:[{word:"Intelexia",left:0.458866,top:0.895509,width:0.082268,height:0.021485},{word:"intelexia",left:0.449561,top:0.929812,width:0.065045,height:0.015335},{word:"com",left:0.519117,top:0.929812,width:0.031322,height:0.015335}]};
