@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"nombre",left:0.722333,top:0.061148,width:0.065334,height:0.018416},{word:"En",left:0.807193,top:0.824808,width:0.042795,height:0.038366},{word:"casa",left:0.858388,top:0.824808,width:0.079081,height:0.038366}]};
