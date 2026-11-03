@@ -1,0 +1,1 @@
+﻿positionForPages[13]={page:13,positions:[{word:"\u0001",left:0.364702,top:0.066034,width:0.129070,height:0.061400}]};
