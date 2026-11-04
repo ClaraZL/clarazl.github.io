@@ -1,0 +1,1 @@
+﻿positionForPages[3]={page:3,positions:[{word:"A",left:0.373763,top:0.399296,width:0.044506,height:0.052793},{word:"la",left:0.436664,top:0.399296,width:0.048642,height:0.052793},{word:"ciudad",left:0.503701,top:0.399296,width:0.180864,height:0.052793}]};
