@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"Manual",left:0.110114,top:0.096531,width:0.248594,height:0.070539},{word:"para",left:0.375245,top:0.096531,width:0.146506,height:0.070539},{word:"el",left:0.538287,top:0.096531,width:0.058265,height:0.070539},{word:"Maestro",left:0.613090,top:0.096531,width:0.276799,height:0.070539}]};
