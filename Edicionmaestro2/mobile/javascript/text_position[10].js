@@ -1,0 +1,1 @@
+﻿positionForPages[10]={page:10,positions:[{word:"\u00A92016",left:0.126521,top:0.864598,width:0.012667,height:0.021697},{word:"intelexia",left:0.126521,top:0.836046,width:0.012667,height:0.026886},{word:"com",left:0.126521,top:0.820713,width:0.012667,height:0.013648},{word:"36",left:0.183014,top:0.838881,width:0.027500,height:0.024489}]};
