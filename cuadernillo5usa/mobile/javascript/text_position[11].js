@@ -1,0 +1,1 @@
+﻿positionForPages[11]={page:11,positions:[{word:"\u662F",left:0.364702,top:0.066034,width:0.129070,height:0.061400}]};
